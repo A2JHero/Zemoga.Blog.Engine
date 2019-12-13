@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zemoga.Blog.Engine.Web", "Zemoga.Blog.Engine.Web\Zemoga.Blog.Engine.Web.csproj", "{337E4792-1F79-4FEF-80BC-268032508011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zemoga.Blog.Engine.Domain", "Zemoga.Blog.Engine.Domain\Zemoga.Blog.Engine.Domain.csproj", "{8561A3A3-BCB2-4E45-A0D2-48B8536976E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zemoga.Blog.Engine.Common", "Zemoga.Blog.Engine.Common\Zemoga.Blog.Engine.Common.csproj", "{6DA3486B-1E61-4D1C-BD46-BACCAF624E5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zemoga.Blog.Engine.Infrastructure", "Zemoga.Blog.Engine.Infrastructure\Zemoga.Blog.Engine.Infrastructure.csproj", "{13F32477-4E13-4916-98AA-345961034F83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zemoga.Blog.Engine.Tests", "Zemoga.Blog.Engine.Tests\Zemoga.Blog.Engine.Tests.csproj", "{10611596-9421-4B98-B665-19B461F74E92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{337E4792-1F79-4FEF-80BC-268032508011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337E4792-1F79-4FEF-80BC-268032508011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337E4792-1F79-4FEF-80BC-268032508011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337E4792-1F79-4FEF-80BC-268032508011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8561A3A3-BCB2-4E45-A0D2-48B8536976E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8561A3A3-BCB2-4E45-A0D2-48B8536976E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8561A3A3-BCB2-4E45-A0D2-48B8536976E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8561A3A3-BCB2-4E45-A0D2-48B8536976E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA3486B-1E61-4D1C-BD46-BACCAF624E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA3486B-1E61-4D1C-BD46-BACCAF624E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA3486B-1E61-4D1C-BD46-BACCAF624E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA3486B-1E61-4D1C-BD46-BACCAF624E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F32477-4E13-4916-98AA-345961034F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F32477-4E13-4916-98AA-345961034F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F32477-4E13-4916-98AA-345961034F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F32477-4E13-4916-98AA-345961034F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10611596-9421-4B98-B665-19B461F74E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10611596-9421-4B98-B665-19B461F74E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10611596-9421-4B98-B665-19B461F74E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10611596-9421-4B98-B665-19B461F74E92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB0D75AF-6654-49FB-AC0C-1158657AE50B}
+	EndGlobalSection
+EndGlobal

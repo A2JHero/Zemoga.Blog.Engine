@@ -1,0 +1,15 @@
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Infrastructure\bin\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Common.dll
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Infrastructure\bin\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Domain.dll
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Infrastructure\obj\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Infrastructure\obj\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Infrastructure.AssemblyInfo.cs
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Infrastructure\obj\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Infrastructure\bin\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Infrastructure.deps.json
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Infrastructure\bin\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Infrastructure.dll
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Infrastructure\bin\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Infrastructure.pdb
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Infrastructure\bin\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Common.pdb
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Infrastructure\bin\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Domain.pdb
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Infrastructure\obj\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Infrastructure.csproj.CopyComplete
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Infrastructure\obj\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Infrastructure.dll
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Infrastructure\obj\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Infrastructure.pdb
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Infrastructure\bin\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Infrastructure.runtimeconfig.json
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Infrastructure\bin\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Infrastructure.runtimeconfig.dev.json

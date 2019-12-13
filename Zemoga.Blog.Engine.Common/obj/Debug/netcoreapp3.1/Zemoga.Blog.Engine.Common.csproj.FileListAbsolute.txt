@@ -1,0 +1,8 @@
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Common\bin\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Common.deps.json
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Common\bin\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Common.dll
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Common\bin\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Common.pdb
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Common\obj\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Common.csprojAssemblyReference.cache
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Common\obj\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Common.AssemblyInfoInputs.cache
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Common\obj\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Common.AssemblyInfo.cs
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Common\obj\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Common.dll
+C:\Users\Team\Downloads\Assesments\Zemoga\Zemoga.Blog.Engine\Zemoga.Blog.Engine.Common\obj\Debug\netcoreapp3.1\Zemoga.Blog.Engine.Common.pdb
