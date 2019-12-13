@@ -9,6 +9,9 @@ Public repository with .NET Test in MVC. Solution to Zemoga .Net Technical Asses
 5. Zemoga.Blog.Engine.Infrastructure: Data infrastructure with Entity Framework Code First, Repository and Unit of Work patterns
 6. Zemoga.Blog.Engine.Common: Common classes and helpers
 
+# Time Spent
+The total amount of time used to create this Application was twelve (12) hours
+
 ## Prerequisites
 .Net Core 3.0 
 MS SQL Server 
